@@ -2,8 +2,8 @@
 Overview
 
 An ML/AI project exploring machine learning techniques for predicting and identifying promising oxide compounds using a dataset of 2,000 compounds selected from a larger collection of approximately 580,000 molecules.
+Tech Stack:
 
-Tech Stack
 Python — Core development
 Pandas & NumPy — Data processing and analysis
 Scikit-learn — Machine learning and predictive modelling
@@ -12,8 +12,8 @@ Objectives
 Analyse chemical data and identify meaningful patterns.
 Develop predictive models for oxide-compound research.
 Explore data-driven approaches to materials discovery.
-Skills
 
+Skills:
 Machine Learning · Data Science · Python · Predictive Modelling · Materials Informatics
 
 Project findings and model performance will be documented as development progresses.
